@@ -1,0 +1,9 @@
+{
+  "name": "prestamo-equipos-laboratorio",
+  "version": "1.0.0",
+  "description": "Sistema de préstamo de equipos de laboratorio",
+  "main": "src/prestamo.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
